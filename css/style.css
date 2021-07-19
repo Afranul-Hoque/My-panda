@@ -1,0 +1,25 @@
+/* poppins font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navigation section */
+
+
+.form-control
+{
+    width: 508px;
+    height: 48px;
+    background: #F1F1F1;
+    border-radius: 66px;
+    font-style: italic;
+    color: #CCCCCC;
+    
+}
+
+.nav-item
+{
+    margin-right: 24px;
+}
