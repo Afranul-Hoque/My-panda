@@ -13,13 +13,40 @@ body{
     width: 508px;
     height: 48px;
     background: #F1F1F1;
-    border-radius: 66px;
     font-style: italic;
     color: #CCCCCC;
-    
+    border-radius: 66px;
+    position: relative;
 }
 
 .nav-item
 {
     margin-right: 24px;
+}
+.fa-search
+{
+    margin-top: 15px;
+    margin-left: 470px;
+    position: absolute;
+}
+.carousel-item
+{
+    background-color: #FEEAE9;
+}
+.banner-heading
+{
+    font-weight:700;
+}
+.banner-details
+{
+    font-weight: 400;
+    color: #4E4E4E;
+}
+.price
+{
+    color: #FF136F;
+}
+.button-color{
+    background-color: #FF589B;
+    color:#FFFF;
 }
