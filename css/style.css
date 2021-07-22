@@ -106,6 +106,20 @@ body{
 {
     width: 290px;
     height: 290px;
-    margin-left: 65px;
+    margin-left: 25px;
+}
+
+.my-border
+{
+    border-radius: 20px;
+}
+
+/* footer section */
+
+
+
+.contact 
+{
+background-color: #FFF2F1;
 }
 
