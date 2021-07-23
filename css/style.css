@@ -16,7 +16,7 @@ body{
 
 .form-control
 {
-    width: 508px;
+    width: 400px;
     height: 48px;
     background: #F1F1F1;
     font-style: italic;
@@ -32,7 +32,7 @@ body{
 .fa-search
 {
     margin-top: 15px;
-    margin-left: 470px;
+    margin-left: 370px;
     position: absolute;
 }
 .carousel-item
